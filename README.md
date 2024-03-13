@@ -1,2 +1,2 @@
-# Python2--024
+# Python-2024
 Repositorio para aprender a usar git
